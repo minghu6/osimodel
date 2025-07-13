@@ -1,6 +1,4 @@
 #![feature(stmt_expr_attributes)]
-#![feature(let_chains)]
-#![feature(cow_is_borrowed)]
 #![feature(iterator_try_collect)]
 #![feature(ascii_char_variants)]
 #![feature(ascii_char)]
